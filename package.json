@@ -1,0 +1,22 @@
+{
+  "name": "date-format-with-moment",
+  "version": "1.0.0",
+  "description": "Input a format it will show you date in that specified format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amrutahoke/date-format-with-moment"
+  },
+  "author": "Amruta Hoke amruta.hoke@mindstix.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrutahoke/date-format-with-moment/issues"
+  },
+  "homepage": "https://github.com/amrutahoke/date-format-with-moment",
+  "dependencies": {
+    "moment":"*"
+  }
+}
